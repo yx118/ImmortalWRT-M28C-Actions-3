@@ -108,6 +108,13 @@ kmod-sched-bpf
 kmod-ifb
 kmod-tun
 
+# openclash
+luci-app-openclash
+
+# daede
+dae
+luci-app-daede
+
 # momo 透明代理插件
 momo
 luci-app-momo
