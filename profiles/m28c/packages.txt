@@ -112,13 +112,12 @@ kmod-tun
 luci-app-openclash
 
 # daede
-dae
 luci-app-daede
 
 # momo 透明代理插件
-momo
-luci-app-momo
-luci-i18n-momo-zh-cn
+#momo
+#luci-app-momo
+#luci-i18n-momo-zh-cn
 
 # MT5700 AT WebServer / WebUI
 at-webserver
@@ -135,3 +134,7 @@ luci-i18n-mosdns-zh-cn
 v2ray-geoip
 v2ray-geosite
 v2dat
+ddns-go
+luci-app-ddns-go
+luci-app-upnp
+luci-app-vlmcsd
