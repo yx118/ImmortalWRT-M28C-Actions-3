@@ -136,5 +136,11 @@ v2ray-geosite
 v2dat
 ddns-go
 luci-app-ddns-go
+luci-i18n-ddns-go-zh-cn
+luci-app-easytier
+luci-i18n-easytier-zh-cn
+luci-app-pushbot
 luci-app-upnp
+luci-i18n-upnp-zh-cn
 luci-app-vlmcsd
+luci-i18n-vlmcsd-zh-cn
